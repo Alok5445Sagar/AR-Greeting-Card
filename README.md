@@ -1,2 +1,2 @@
-# AR-Greeting-Card-
+# AR_Greeting_Card
 An AR application
